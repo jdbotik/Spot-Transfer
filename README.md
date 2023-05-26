@@ -48,7 +48,7 @@ Following the prompt to send money, this goes on. <br/>
 <img src="https://imgur.com/eBlm8ZW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-A video on this is in the link below
+A video on this is, in the link below:
 <br/>
 [Youtube Demonstration](https://youtu.be/st30OXkcrok)
 
